@@ -1,11 +1,6 @@
 # Evoratec
 Enlaces de blogs y herramientas para desarrollo.
 
-[Resources](#resources)
-
-
-# Resources
-
 
 ### Recursos oficiales
 
@@ -22,7 +17,7 @@ Enlaces de blogs y herramientas para desarrollo.
 - [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 - [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions.
 
-### Blogs y artculos
+### Blogs y artículos
 
 - [Como configurar módulos en Vuex (Metricloop)](https://metricloop.com/blog/how-to-set-up-modules-in-vuex)
 
