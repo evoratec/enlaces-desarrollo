@@ -20,4 +20,4 @@ Enlaces de blogs y herramientas para desarrollo.
 ### Blogs y artículos
 
 - [Como configurar módulos en Vuex (Metricloop)](https://metricloop.com/blog/how-to-set-up-modules-in-vuex)
-
+- [Codeburst.io Artículos de vue y vuex)](https://codeburst.io/)
